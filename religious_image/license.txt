@@ -1,0 +1,8 @@
+Model Information:
+* title:	Religious Souvenir
+* source:	https://sketchfab.com/3d-models/religious-souvenir-3afcd6bee82e488e845d9c78fd0edd59
+* author:	Dom S (https://sketchfab.com/dominiksubocz)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

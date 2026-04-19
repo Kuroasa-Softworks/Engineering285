@@ -1,0 +1,8 @@
+Model Information:
+* title:	Angel sculpture by Matteo Civitali
+* source:	https://sketchfab.com/3d-models/angel-sculpture-by-matteo-civitali-c44411ccbd97489ab3097a0e09a3d137
+* author:	Fabian Mohr (https://sketchfab.com/fabianmohr)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
